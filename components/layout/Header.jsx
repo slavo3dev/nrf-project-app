@@ -28,7 +28,7 @@ const Header = ({ handleHidden }) => {
               <a className="text-3xl font-semibold leading-none">
                 <img
                   className="h-20"
-                  src="/assets/imgs/logos/felp_app.svg"
+                  src="/assets/imgs/logos/prototypenextlogo.png"
                   alt="Prototype.NEXT"
                 />
               </a>
