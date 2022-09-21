@@ -20,8 +20,10 @@ const Index3 = () => {
                   </h2>
                   <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
                     We are{" "}
-                    <strong className="text-blue-500">Monst</strong>,
-                    a Creative Design{" "}
+                    <strong className="text-blue-500">
+                      Prototype.NEXT Software Consulting Platform
+                    </strong>
+                    , a Creative Design{" "}
                     <span className="typewrite d-inline text-brand">
                       <TextEffect
                         text1="Web Agency"
@@ -55,7 +57,7 @@ const Index3 = () => {
                   <img
                     className="lg:max-w-lg"
                     src="/assets/imgs/illustrations/work-tv.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -90,7 +92,7 @@ const Index3 = () => {
             >
               <img
                 src="/assets/imgs/elements/macbook.png"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
               <div
                 className="absolute"
@@ -445,7 +447,7 @@ const Index3 = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/startup.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Startup
@@ -552,7 +554,7 @@ const Index3 = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/agency.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Agency
@@ -657,7 +659,7 @@ const Index3 = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/enterprise.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Enterprise

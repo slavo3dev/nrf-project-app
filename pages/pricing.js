@@ -23,7 +23,9 @@ const Pricing = () => {
                     </h2>
                     <p className="text-blueGray-400 leading-relaxed wow animate__animatedanimated animate__fadeIn">
                       We are{" "}
-                      <strong className="text-blue-500">Monst</strong>
+                      <strong className="text-blue-500">
+                        Prototype.NEXT Software Consulting Platform
+                      </strong>
                       , a Creative Design{" "}
                       <span
                         className="typewrite d-inline text-brand"
@@ -58,7 +60,7 @@ const Pricing = () => {
                   <img
                     className="lg:max-w-lg"
                     src="/assets/imgs/illustrations/team.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -237,7 +239,7 @@ const Pricing = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/startup.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Startup
@@ -344,7 +346,7 @@ const Pricing = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/agency.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Agency
@@ -449,7 +451,7 @@ const Pricing = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/enterprise.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Enterprise
@@ -1246,7 +1248,10 @@ const Pricing = () => {
                     <span className="text-sm text-blueGray-400">
                       E-mail
                     </span>
-                    <p>contact@monst.com</p>
+                    <p>
+                      contact@Prototype.NEXT Software Consulting
+                      Platform.com
+                    </p>
                     <p>pat@example.com</p>
                   </div>
                 </div>

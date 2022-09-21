@@ -71,7 +71,7 @@ const Team = () => {
                     <img
                       className="h-16 w-16 rounded-full object-cover"
                       src="/assets/imgs/placeholders/avatar-1.png"
-                      alt="Monst"
+                      alt="Prototype.NEXT Software Consulting Platform"
                     />
                     <div className="pl-4">
                       <strong className="mt-6 mb-2 text-md">
@@ -92,13 +92,13 @@ const Team = () => {
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/facebook-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/instagram-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                   </div>
@@ -113,7 +113,7 @@ const Team = () => {
                     <img
                       className="h-16 w-16 rounded-full object-cover"
                       src="/assets/imgs/placeholders/avatar-2.png"
-                      alt="Monst"
+                      alt="Prototype.NEXT Software Consulting Platform"
                     />
                     <div className="pl-4">
                       <strong className="mt-6 mb-2 text-md">
@@ -134,13 +134,13 @@ const Team = () => {
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/facebook-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/instagram-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                   </div>
@@ -155,7 +155,7 @@ const Team = () => {
                     <img
                       className="h-16 w-16 rounded-full object-cover"
                       src="/assets/imgs/placeholders/avatar-3.png"
-                      alt="Monst"
+                      alt="Prototype.NEXT Software Consulting Platform"
                     />
                     <div className="pl-4">
                       <strong className="mt-6 mb-2 text-md">
@@ -176,13 +176,13 @@ const Team = () => {
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/facebook-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/twitter-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                   </div>
@@ -197,7 +197,7 @@ const Team = () => {
                     <img
                       className="h-16 w-16 rounded-full object-cover"
                       src="/assets/imgs/placeholders/avatar-4.png"
-                      alt="Monst"
+                      alt="Prototype.NEXT Software Consulting Platform"
                     />
                     <div className="pl-4">
                       <strong className="mt-6 mb-2 text-md">
@@ -218,19 +218,19 @@ const Team = () => {
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/facebook-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/instagram-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                     <a href="#">
                       <img
                         src="/assets/imgs/icons/twitter-blue.svg"
-                        alt="Monst"
+                        alt="Prototype.NEXT Software Consulting Platform"
                       />
                     </a>
                   </div>
@@ -273,7 +273,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-1.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Geraldine Tusoy</strong>
@@ -284,11 +284,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -300,7 +300,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-2.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Clara Kolawole</strong>
@@ -311,11 +311,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -327,7 +327,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-3.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Chris Fulton</strong>
@@ -338,11 +338,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -354,7 +354,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-4.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Dany Connolly</strong>
@@ -365,11 +365,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -381,7 +381,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-5.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Al-amin Bishash</strong>
@@ -390,11 +390,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -406,7 +406,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-6.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Sanuya Santa</strong>
@@ -417,11 +417,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -433,7 +433,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-7.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Steven Job</strong>
@@ -442,11 +442,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -458,7 +458,7 @@ const Team = () => {
                 <img
                   className="h-64 w-64 mx-auto rounded object-cover object-top"
                   src="/assets/imgs/placeholders/avatar-8.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <p className="mt-6">
                   <strong className="text-md">Romario</strong>
@@ -467,11 +467,11 @@ const Team = () => {
                 <div className="flex py-1 justify-center space-x-2">
                   <img
                     src="/assets/imgs/icons/facebook.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     src="/assets/imgs/icons/twitter.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -545,7 +545,10 @@ const Team = () => {
                     <span className="text-sm text-blueGray-400">
                       E-mail
                     </span>
-                    <p>contact@monst.com</p>
+                    <p>
+                      contact@Prototype.NEXT Software Consulting
+                      Platform.com
+                    </p>
                     <p>pat@example.com</p>
                   </div>
                 </div>

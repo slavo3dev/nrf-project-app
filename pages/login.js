@@ -15,7 +15,7 @@ const Login = () => {
               <img
                 className="lg:max-w-lg mx-auto"
                 src="/assets/imgs/illustrations/space.svg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
             </div>
           </div>

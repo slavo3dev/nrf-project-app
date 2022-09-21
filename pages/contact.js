@@ -71,7 +71,7 @@ const Contact = () => {
                   <img
                     className="lg:max-w-lg"
                     src="/assets/imgs/illustrations/team.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>

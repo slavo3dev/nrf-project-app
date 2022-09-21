@@ -11,7 +11,7 @@ const Custom404 = () => {
             <img
               className="mx-auto md:max-w-md mb-12 wow animate__animated animate__fadeIn"
               src="/assets/imgs/illustrations/error2.png"
-              alt="Monst"
+              alt="Prototype.NEXT Software Consulting Platform"
             />
             <span
               className="text-4xl text-blue-500 font-bold font-heading wow animate__animated animate__fadeIn"

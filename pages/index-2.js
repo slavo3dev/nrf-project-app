@@ -24,8 +24,10 @@ function Home() {
                 </h2>
                 <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
                   We are{" "}
-                  <strong className="text-blue-500">Monst</strong>, a
-                  Creative Design{" "}
+                  <strong className="text-blue-500">
+                    Prototype.NEXT Software Consulting Platform
+                  </strong>
+                  , a Creative Design{" "}
                   <span className="typewrite d-inline text-brand">
                     <TextEffect
                       text1="Web Agency"
@@ -54,7 +56,7 @@ function Home() {
           <div className="relative max-w-6xl mt-16 md:mt-8 mb-8 mx-auto">
             <img
               src="/assets/imgs/elements/pattern.png"
-              alt="Monst"
+              alt="Prototype.NEXT Software Consulting Platform"
             />
             <div
               className="absolute"
@@ -68,7 +70,7 @@ function Home() {
               <img
                 className="jump rounded wow animate__animated animate__fadeIn"
                 src="/assets/imgs/placeholders/dashboard.png"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
             </div>
           </div>
@@ -341,17 +343,17 @@ function Home() {
                   <img
                     className="jump relative mx-auto rounded-xl w-full z-10"
                     src="/assets/imgs/placeholders/img-1.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     className="absolute top-0 left-0 w-40 -ml-12 -mt-12"
                     src="/assets/imgs/elements/blob-tear.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <img
                     className="absolute bottom-0 right-0 w-40 -mr-12 -mb-12"
                     src="/assets/imgs/elements/blob-tear.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -391,7 +393,7 @@ function Home() {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/eating.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project Initialization
@@ -414,7 +416,7 @@ function Home() {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/space.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project planning
@@ -437,7 +439,7 @@ function Home() {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/tasks.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project organization
@@ -521,7 +523,7 @@ function Home() {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/startup.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Startup
@@ -628,7 +630,7 @@ function Home() {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/agency.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Agency
@@ -733,7 +735,7 @@ function Home() {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/enterprise.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Enterprise

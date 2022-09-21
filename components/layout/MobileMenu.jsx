@@ -235,7 +235,8 @@ const MobileMenu = ({ hiddenClass, handleRemove }) => {
             <p className="my-4 text-xs text-blueGray-400">
               <span>Get in Touch</span>
               <span className="text-blue-500 hover:text-blue-500 underline">
-                contact@monst.com
+                contact@Prototype.NEXT Software Consulting
+                Platform.com
               </span>
             </p>
             <a
@@ -244,7 +245,7 @@ const MobileMenu = ({ hiddenClass, handleRemove }) => {
             >
               <img
                 src="/assets/imgs/icons/facebook-blue.svg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
             </a>
             <a
@@ -253,7 +254,7 @@ const MobileMenu = ({ hiddenClass, handleRemove }) => {
             >
               <img
                 src="/assets/imgs/icons/twitter-blue.svg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
             </a>
             <a
@@ -262,7 +263,7 @@ const MobileMenu = ({ hiddenClass, handleRemove }) => {
             >
               <img
                 src="/assets/imgs/icons/instagram-blue.svg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
             </a>
           </div>

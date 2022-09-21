@@ -23,8 +23,10 @@ const Index4 = () => {
                 </h2>
                 <p className="text-blueGray-400 leading-relaxed wow animate__animated animate__fadeIn">
                   We are{" "}
-                  <strong className="text-blue-500">Monst</strong>, a
-                  Creative Design{" "}
+                  <strong className="text-blue-500">
+                    Prototype.NEXT Software Consulting Platform
+                  </strong>
+                  , a Creative Design{" "}
                   <span className="typewrite d-inline text-brand">
                     <TextEffect
                       text1="Web Agency"
@@ -57,7 +59,7 @@ const Index4 = () => {
                 <img
                   className="mx-auto"
                   src="/assets/imgs/logos/brands/brand-1.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
               </div>
               <div
@@ -67,7 +69,7 @@ const Index4 = () => {
                 <img
                   className="mx-auto"
                   src="/assets/imgs/logos/brands/brand-2.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
               </div>
               <div
@@ -77,7 +79,7 @@ const Index4 = () => {
                 <img
                   className="mx-auto"
                   src="/assets/imgs/logos/brands/brand-3.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
               </div>
               <div
@@ -87,7 +89,7 @@ const Index4 = () => {
                 <img
                   className="mx-auto"
                   src="/assets/imgs/logos/brands/brand-4.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
               </div>
               <div
@@ -97,7 +99,7 @@ const Index4 = () => {
                 <img
                   className="mx-auto"
                   src="/assets/imgs/logos/brands/brand-5.png"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
               </div>
             </div>
@@ -319,7 +321,7 @@ const Index4 = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/eating.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project Initialization
@@ -342,7 +344,7 @@ const Index4 = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/space.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project planning
@@ -365,7 +367,7 @@ const Index4 = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/tasks.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project organization
@@ -792,7 +794,7 @@ const Index4 = () => {
                     <img
                       className="h-80"
                       src="/assets/imgs/illustrations/online-shopping.png"
-                      alt="Monst"
+                      alt="Prototype.NEXT Software Consulting Platform"
                     />
                   </div>
                 </div>
@@ -866,7 +868,10 @@ const Index4 = () => {
                     <span className="text-sm text-blueGray-400">
                       E-mail
                     </span>
-                    <p>contact@monst.com</p>
+                    <p>
+                      contact@Prototype.NEXT Software Consulting
+                      Platform.com
+                    </p>
                     <p>pat@example.com</p>
                   </div>
                 </div>

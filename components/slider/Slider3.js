@@ -21,21 +21,21 @@ const Slider3 = () => {
           <img
             className="rounded"
             src="/assets/imgs/placeholders/mockup-1.png"
-            alt="Monst"
+            alt="Prototype.NEXT Software Consulting Platform"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             className="rounded"
             src="/assets/imgs/placeholders/mockup-2.png"
-            alt="Monst"
+            alt="Prototype.NEXT Software Consulting Platform"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
             className="rounded"
             src="/assets/imgs/placeholders/mockup-3.png"
-            alt="Monst"
+            alt="Prototype.NEXT Software Consulting Platform"
           />
         </SwiperSlide>
       </Swiper>

@@ -9,7 +9,8 @@ const Services = () => {
       <Layout>
         <Head>
           <title>
-            Software Web/Mobile Development - Consulting - Prototype.NEXT
+            Software Web/Mobile Development - Consulting -
+            Prototype.NEXT
           </title>
           <meta
             name="Learning and Building Web and Mobile Application"
@@ -382,7 +383,7 @@ const Services = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/eating.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project Initialization
@@ -405,7 +406,7 @@ const Services = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/space.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project planning
@@ -428,7 +429,7 @@ const Services = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/tasks.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project organization
@@ -480,7 +481,7 @@ const Services = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/startup.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Startup
@@ -589,7 +590,7 @@ const Services = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/agency.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Agency
@@ -696,7 +697,7 @@ const Services = () => {
                   <img
                     className="h-20 mb-6 mx-auto"
                     src="/assets/imgs/icons/enterprise.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 text-4xl font-bold font-heading">
                     Enterprise

@@ -72,7 +72,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-10.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
                 <div
@@ -82,7 +82,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-11.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
                 <div
@@ -92,7 +92,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-12.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
                 <div
@@ -102,7 +102,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-13.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -113,7 +113,7 @@ const Portfolio = () => {
                 <img
                   className="lg:h-128 w-full object-cover rounded"
                   src="/assets/imgs/placeholders/img-9.jpg"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <div className="absolute text-center bg-white rounded card-label-center px-4 py-12">
                   <div className="w-full flex place-content-center">
@@ -144,7 +144,7 @@ const Portfolio = () => {
                 <img
                   className="h-128 w-full object-cover rounded"
                   src="/assets/imgs/placeholders/img-9.jpg"
-                  alt="Monst"
+                  alt="Prototype.NEXT Software Consulting Platform"
                 />
                 <div className="absolute text-center bg-white rounded card-label-center px-4 py-12">
                   <div className="w-full flex place-content-center">
@@ -175,7 +175,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-10.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
                 <div
@@ -185,7 +185,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-11.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
                 <div
@@ -195,7 +195,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-12.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
                 <div
@@ -205,7 +205,7 @@ const Portfolio = () => {
                   <img
                     className="h-full object-cover rounded"
                     src="/assets/imgs/placeholders/img-13.jpg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -345,7 +345,7 @@ const Portfolio = () => {
                     <img
                       className="h-80"
                       src="/assets/imgs/illustrations/online-shopping.png"
-                      alt="Monst"
+                      alt="Prototype.NEXT Software Consulting Platform"
                     />
                   </div>
                 </div>
@@ -420,7 +420,10 @@ const Portfolio = () => {
                     <span className="text-sm text-blueGray-400">
                       E-mail
                     </span>
-                    <p>contact@monst.com</p>
+                    <p>
+                      contact@Prototype.NEXT Software Consulting
+                      Platform.com
+                    </p>
                     <p>pat@example.com</p>
                   </div>
                 </div>

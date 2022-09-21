@@ -24,7 +24,7 @@ const Slider1 = () => {
               <img
                 className="rounded-xl"
                 src="/assets/imgs/placeholders/img-2.jpg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
               <div className="flex justify-between items-end">
                 <div>
@@ -54,7 +54,7 @@ const Slider1 = () => {
               <img
                 className="rounded-xl"
                 src="/assets/imgs/placeholders/img-3.jpg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
               <div className="flex justify-between items-end">
                 <div>
@@ -84,7 +84,7 @@ const Slider1 = () => {
               <img
                 className="rounded-xl"
                 src="/assets/imgs/placeholders/img-4.jpg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
               <div className="flex justify-between items-end">
                 <div>
@@ -114,7 +114,7 @@ const Slider1 = () => {
               <img
                 className="rounded-xl"
                 src="/assets/imgs/placeholders/img-5.jpg"
-                alt="Monst"
+                alt="Prototype.NEXT Software Consulting Platform"
               />
               <div className="flex justify-between items-end">
                 <div>

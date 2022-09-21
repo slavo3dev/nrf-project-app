@@ -24,7 +24,9 @@ const About = () => {
                     </h2>
                     <p className="text-blueGray-400 leading-relaxed wow animate__animatedanimated animate__fadeIn">
                       We are{" "}
-                      <strong className="text-blue-500">Monst</strong>
+                      <strong className="text-blue-500">
+                        Prototype.NEXT Software Consulting Platform
+                      </strong>
                       , a Creative Design{" "}
                       <span
                         className="typewrite d-inline text-brand"
@@ -59,7 +61,7 @@ const About = () => {
                   <img
                     className="lg:max-w-lg"
                     src="/assets/imgs/illustrations/team.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                 </div>
               </div>
@@ -236,7 +238,7 @@ const About = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/eating.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project Initialization
@@ -259,7 +261,7 @@ const About = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/space.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project planning
@@ -282,7 +284,7 @@ const About = () => {
                   <img
                     className="h-36 mx-auto my-4"
                     src="/assets/imgs/illustrations/tasks.svg"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <h3 className="mb-2 font-bold font-heading text-xl">
                     Project organization
@@ -322,7 +324,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-1.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Geraldine Tusoy
@@ -340,7 +342,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-2.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Clara Kolawole
@@ -358,7 +360,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-3.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Chris Fulton
@@ -376,7 +378,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-4.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Dany Connolly
@@ -394,7 +396,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-5.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Al-amin Bishash
@@ -412,7 +414,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-6.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Sanuya Santa
@@ -430,7 +432,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-7.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Steven Job
@@ -448,7 +450,7 @@ const About = () => {
                   <img
                     className="mb-6 h-24 w-24 mx-auto rounded-full object-cover object-top"
                     src="/assets/imgs/placeholders/avatar-8.png"
-                    alt="Monst"
+                    alt="Prototype.NEXT Software Consulting Platform"
                   />
                   <strong className="mt-6 mb-2 text-md">
                     Romario
@@ -639,7 +641,7 @@ const About = () => {
                         <div className="relative flex flex-wrap -mx-4">
                             <div className="w-full lg:w-1/2 pt-20 px-4 max-w-lg lg:max-w-full mx-auto lg:mx-0 text-center lg:text-left">
                                 <Link href="/"><a className="inline-block mx-auto lg:ml-0 text-3xl font-semibold leading-none wow animate__animatedanimated animate__fadeIn animated" data-wow-delay=".1s">
-                                    <img className="h-10" src="/assets/imgs/logos/monst-logo.svg" alt="Monst" />
+                                    <img className="h-10" src="/assets/imgs/logos/Prototype.NEXT Software Consulting Platform-logo.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                 </a></Link>
                                 <div className="mt-12 mb-16">
                                     <p className="mb-4 text-xs text-blueGray-400 text-center lg:text-left wow animate__animatedanimated animate__fadeIn animated" data-wow-delay=".1s">Subscribe and stay fully connected with product.</p>
@@ -658,13 +660,13 @@ const About = () => {
                                     <p className="text-xs text-blueGray-400">&copy; 2021. All rights reserved.</p>
                                     <div className="-mx-2 mt-4">
                                         <Link href="#"><a className="inline-block px-2">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst" />
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                         </a></Link>
                                         <Link href="#"><a className="inline-block px-2">
-                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst" />
+                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                         </a></Link>
                                         <Link href="#"><a className="inline-block px-2">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst" />
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                         </a></Link>
                                     </div>
                                 </div>
@@ -702,13 +704,13 @@ const About = () => {
                                     <p className="text-xs text-blueGray-400">&copy; 2021. All rights reserved.</p>
                                     <div className="-mx-2 mt-4">
                                         <Link href="#"><a className="inline-block px-2">
-                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Monst" />
+                                            <img src="/assets/imgs/icons/facebook-blue.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                         </a></Link>
                                         <Link href="#"><a className="inline-block px-2">
-                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Monst" />
+                                            <img src="/assets/imgs/icons/twitter-blue.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                         </a></Link>
                                         <Link href="#"><a className="inline-block px-2">
-                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Monst" />
+                                            <img src="/assets/imgs/icons/instagram-blue.svg" alt="Prototype.NEXT Software Consulting Platform" />
                                         </a></Link>
                                     </div>
                                 </div>

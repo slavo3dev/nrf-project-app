@@ -102,7 +102,7 @@ export const SignIn = () => {
             <img
               className="h-80"
               src="/assets/imgs/illustrations/online-shopping.png"
-              alt="Monst"
+              alt="Prototype.NEXT Software Consulting Platform"
             />
           </div>
         </div>
