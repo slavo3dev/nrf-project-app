@@ -56,7 +56,10 @@ const Layout = ({ children }) => {
           name="twitter:card"
           content="Prototype.NEXT - Become Software Web Developer FreeLancer"
         ></meta>
-        <link rel="canonical" href="https://www.Prototype.NEXT.com"></link>
+        <link
+          rel="canonical"
+          href="https://www.Prototype.NEXT.com"
+        ></link>
       </Head>
       <div className="main font-body text-body">
         <Header handleHidden={handleHidden} />
