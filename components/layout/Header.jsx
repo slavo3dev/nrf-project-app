@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 
 const Header = ({ handleHidden }) => {
   const [scroll, setScroll] = useState(0);
+
   useEffect(() => {
     let isSubscribed = true;
 
@@ -18,6 +19,7 @@ const Header = ({ handleHidden }) => {
     }
     return () => (isSubscribed = false);
   });
+
   return (
     <>
       <header

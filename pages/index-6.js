@@ -6,13 +6,14 @@ import Link from "next/link";
 import { Subscribe, SignIn, ContactForm } from "../components";
 import Head from "next/head";
 
-const Home = () => {
+const index5 = () => {
   return (
     <>
       <Layout>
         <Head>
           <title>
-            Software Web/Mobile Development - Consulting - Prototype.NEXT
+            Software Web/Mobile Development - Consulting -
+            Prototype.NEXT
           </title>
           <meta
             name="Learning and Building Web and Mobile Application"
@@ -578,4 +579,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default index5;
