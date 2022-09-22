@@ -4,7 +4,7 @@ import axios from "axios";
 export const Subscribe = () => {
   const [email, setEmail] = useState("");
   const [state, setState] = useState("idle");
-  const [errorMsg, setErrorMsg] = useState(null);
+  // const [errorMsg, setErrorMsg] = useState(null);
 
   const handleSubscribe = async (e) => {
     e.preventDefault();
@@ -18,7 +18,7 @@ export const Subscribe = () => {
 
       setEmail("");
     } catch (e) {
-      setErrorMsg(e.response.data.detail);
+      // setErrorMsg(e.response.data.detail);
       setState("Error");
       setTimeout(() => {
         setState("idle");

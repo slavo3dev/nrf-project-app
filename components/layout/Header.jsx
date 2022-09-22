@@ -6,12 +6,17 @@ import { useState, useEffect } from "react";
 const Header = ({ handleHidden }) => {
   const [scroll, setScroll] = useState(0);
   useEffect(() => {
-    document.addEventListener("scroll", () => {
-      const scrollCheck = window.scrollY > 100;
-      if (scrollCheck !== scroll) {
-        setScroll(scrollCheck);
-      }
-    });
+    let isSubscribed = true;
+
+    if (isSubscribed) {
+      document.addEventListener("scroll", () => {
+        const scrollCheck = window.scrollY > 100;
+        if (scrollCheck !== scroll) {
+          setScroll(scrollCheck);
+        }
+      });
+    }
+    return () => (isSubscribed = false);
   });
   return (
     <>
