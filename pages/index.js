@@ -17,7 +17,7 @@ const Home = () => {
                     className="mb-4 text-3xl md:text-3xl font-bold font-heading wow animate__animated animate__fadeIn"
                     data-wow-delay=".3s"
                   >
-                    How we work?
+                    How It Works?
                   </h3>
                   <p
                     className="mb-6 leading-loose text-blueGray-400 wow animate__animated animate__fadeIn"
